@@ -1,0 +1,4 @@
+Running: xsim.dir/click_7seg_tb_behav/xsimk.exe -simmode gui -wdb click_7seg_tb_behav.wdb -simrunnum 0 -socket 3062
+Design successfully loaded
+Design Loading Memory Usage: 8324 KB (Peak: 8324 KB)
+Design Loading CPU Usage: 0 ms
